@@ -2,10 +2,10 @@
 
 ## Instruções
 
-1. Clone o repositório
-1. Instale as dependências rodando o comando `yarn`
+1.Primeiramente cllone o repositório
+1. Instale as dependências do projeto,executando o comando `yarn`
 1. Para iniciar o servidor local é só rodar o comando `yarn dev`
-1. Para visualizar a aplicação no servidor local, abra [http://localhost:3000](http://localhost:3000) em algum browser
+1. Para visualizar a aplicação no servidor local, abra [http://localhost:3000] em algum browser
 1. Para rodar os testes da aplicação, rode o comando `yarn test`
 
 ## Tech Stack

@@ -15,7 +15,7 @@ import { theme } from "~/styles/theme";
 const App: React.FC<AppProps> = ({ Component, pageProps }) => (
   <Fragment>
     <Head>
-      <title>MKS Frontend Challenge</title>
+      <title>MKS Frontend Challenge-2023</title>
     </Head>
 
     <ThemeProvider theme={theme}>
